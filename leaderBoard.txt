@@ -1,0 +1,10 @@
+Alvi:9999999
+Bram:900000
+Dwi:300000
+Farhan:100000
+Supri:3000
+John:2000
+Michael:1500
+Sarah:1000
+David:500
+Jessica:200
